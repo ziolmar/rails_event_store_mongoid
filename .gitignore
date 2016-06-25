@@ -1,0 +1,5 @@
+/.bundle
+
+# RubyMine project files
+.idea
+*.iml
